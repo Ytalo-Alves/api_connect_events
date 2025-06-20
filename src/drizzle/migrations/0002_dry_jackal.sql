@@ -1,0 +1,1 @@
+ALTER TABLE "subscription" DROP COLUMN "invite_by_subscriber_id";

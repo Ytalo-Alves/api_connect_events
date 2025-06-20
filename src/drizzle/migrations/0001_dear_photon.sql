@@ -1,0 +1,1 @@
+ALTER TABLE "subscription" ADD COLUMN "invite_by_subscriber_id" uuid;
